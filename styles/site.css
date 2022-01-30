@@ -48,6 +48,7 @@ body {
 }
 nav a {
   text-decoration: none;
+  color: black;
 }
 #top-nav a:hover {
   color: #da0581 !important;
